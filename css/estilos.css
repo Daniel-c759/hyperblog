@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: "Arial";
+    color: deeppink;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+.colorpers{
+    text-align: left;
+    color: aquamarine;
+}
